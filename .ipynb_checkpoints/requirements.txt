@@ -1,5 +1,0 @@
-Python
-OpenCV
-Numpy 
-CVZone
-Streamlit
