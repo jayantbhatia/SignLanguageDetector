@@ -32,7 +32,7 @@ git clone https://github.com/jayantbhatia/SignLanguageDetector.git
 
 Check out the demo video to see the Virtual Sign Detector in action.
 
-[Watch the Demo on LinkedIn](...)
+[Watch the Demo on LinkedIn](https://www.linkedin.com/posts/jayant-bhatia-377586229_machinelearning-ai-accessibility-activity-7228859099692634113-YUfi?utm_source=share&utm_medium=member_desktop)
 
 ## 🤝 Contribution
 
